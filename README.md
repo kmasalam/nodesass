@@ -16,6 +16,16 @@ $ npm i node-sass
 $ npm install -g live-server
 
 
-<h2>Add following line in package.json file to redirect your css folder and file</h2>
+<h2>Add following line in package.json file to redirect your css folder and file under scripts property</h2>
 
 "scss": "node-sass --watch assets/scss/style.scss  assets/css/style.css"
+
+
+<h5>Follow me on Facebook</h5>
+<a href="https://www.facebook.com/m.a.salam15" target="_blank">kmasalam</a>
+
+<h5>Follow me on Twitter</h5>
+<a href="https://twitter.com/mccyber1" target="_blank">kmasalam Twitter</a>
+
+
+
